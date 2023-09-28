@@ -15,5 +15,9 @@ public class Test1 {
         System.out.println("Hello World!");
         
         System.out.println("this is part of the second commit-push");
+        
+        int i = 8 + 9;
+        
+        System.out.println("The result is : " + i);
     }
 }
