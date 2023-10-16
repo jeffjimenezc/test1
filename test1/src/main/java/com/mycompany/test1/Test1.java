@@ -21,5 +21,9 @@ public class Test1 {
         System.out.println("The result is : " + i);
 
         System.out.println("This line was done in my mobile");
+        
+        System.out.print("El Enano es un super motorizado");
+        
+        int valorViaje = 100;
     }
 }
